@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# JavaScript OO
 
-Rápida descrição do objetivo de fazer esse projeto
+Estudo de Orientação Objeto com JavaScript e NodeJs
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -14,4 +14,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Apenas um projeto focado nos estudos de OO em JavaScript
+Apenas um projeto focado nos estudos Orientação Objeto com JavaScript e NodeJs
